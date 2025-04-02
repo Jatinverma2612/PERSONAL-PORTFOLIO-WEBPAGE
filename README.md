@@ -57,7 +57,7 @@ This project helped me improve my HTML & CSS skills, learn better structuring te
 This project was a great learning experience, and I am excited to improve it further! 🚀
 
 
-![Alt Text](https://github.com/username/repo-name/blob/main/image.png)
+![Alt Text](https://github.com/Jatinverma2612/PERSONAL-PORTFOLIO-WEBPAGE/blob/main/portfolio-web.png)
 
 
 
